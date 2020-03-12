@@ -1,0 +1,10 @@
+D:\VisualStudioProjects\3-3-14\3-3-14\bin\Debug\3-3-14.exe.config
+D:\VisualStudioProjects\3-3-14\3-3-14\bin\Debug\3-3-14.exe
+D:\VisualStudioProjects\3-3-14\3-3-14\bin\Debug\3-3-14.pdb
+D:\VisualStudioProjects\3-3-14\3-3-14\obj\Debug\_3_3_14.Form1.resources
+D:\VisualStudioProjects\3-3-14\3-3-14\obj\Debug\_3_3_14.Properties.Resources.resources
+D:\VisualStudioProjects\3-3-14\3-3-14\obj\Debug\3-3-14.csproj.GenerateResource.Cache
+D:\VisualStudioProjects\3-3-14\3-3-14\obj\Debug\3-3-14.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\3-3-14\3-3-14\obj\Debug\3-3-14.exe
+D:\VisualStudioProjects\3-3-14\3-3-14\obj\Debug\3-3-14.pdb
+D:\VisualStudioProjects\3-3-14\3-3-14\obj\Debug\3-3-14.csprojResolveAssemblyReference.cache

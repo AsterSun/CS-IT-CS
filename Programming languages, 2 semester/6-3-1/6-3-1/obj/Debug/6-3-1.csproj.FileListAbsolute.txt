@@ -1,0 +1,7 @@
+D:\VisualStudioProjects\6-3-1\6-3-1\bin\Debug\6-3-1.exe.config
+D:\VisualStudioProjects\6-3-1\6-3-1\bin\Debug\6-3-1.exe
+D:\VisualStudioProjects\6-3-1\6-3-1\bin\Debug\6-3-1.pdb
+D:\VisualStudioProjects\6-3-1\6-3-1\obj\Debug\6-3-1.csprojResolveAssemblyReference.cache
+D:\VisualStudioProjects\6-3-1\6-3-1\obj\Debug\6-3-1.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\6-3-1\6-3-1\obj\Debug\6-3-1.exe
+D:\VisualStudioProjects\6-3-1\6-3-1\obj\Debug\6-3-1.pdb

@@ -1,0 +1,11 @@
+6
+Alekseev Boris Ivanovich 20171110 21.10.1999
+Perov Ivan Alexeevich 20171111 16.12.1999
+Kormshin Alexander Pavlovich 20171112 12.06.2000
+Balova Tatyana Borisovna 20171113 02.02.2000
+Povetkin Artem Nikolaevich 20171114 14.05.1999
+Altova Ekaterina Alexandrovna 20171115 10.01.2000
+2
+Zlobin Evgeniy Petrovich Professor 10.12.1973
+Pronin Dmitriy Sergeevich Assistant 21.01.1984
+

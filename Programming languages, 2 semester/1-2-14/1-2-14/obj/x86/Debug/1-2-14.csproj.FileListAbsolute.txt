@@ -1,0 +1,7 @@
+E:\New folder\1-2-14\1-2-14\bin\Debug\1-2-14.exe
+E:\New folder\1-2-14\1-2-14\bin\Debug\1-2-14.pdb
+E:\New folder\1-2-14\1-2-14\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\New folder\1-2-14\1-2-14\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\New folder\1-2-14\1-2-14\obj\x86\Debug\1-2-14.csproj.GenerateResource.Cache
+E:\New folder\1-2-14\1-2-14\obj\x86\Debug\1-2-14.exe
+E:\New folder\1-2-14\1-2-14\obj\x86\Debug\1-2-14.pdb

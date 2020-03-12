@@ -1,0 +1,25 @@
+C:\Users\ZyubinDA\AppData\Local\Temporary Projects\1-1-14\bin\Debug\1-1-14.exe
+C:\Users\ZyubinDA\AppData\Local\Temporary Projects\1-1-14\bin\Debug\1-1-14.pdb
+C:\Users\ZyubinDA\AppData\Local\Temporary Projects\1-1-14\obj\x86\Debug\_1_1_14.Form1.resources
+C:\Users\ZyubinDA\AppData\Local\Temporary Projects\1-1-14\obj\x86\Debug\_1_1_14.Properties.Resources.resources
+C:\Users\ZyubinDA\AppData\Local\Temporary Projects\1-1-14\obj\x86\Debug\1-1-14.csproj.GenerateResource.Cache
+C:\Users\ZyubinDA\AppData\Local\Temporary Projects\1-1-14\obj\x86\Debug\1-1-14.exe
+C:\Users\ZyubinDA\AppData\Local\Temporary Projects\1-1-14\obj\x86\Debug\1-1-14.pdb
+C:\Users\ZyubinDA\Desktop\New folder\1-1-14\1-1-14\obj\x86\Debug\1-1-14.exe
+C:\Users\ZyubinDA\Desktop\New folder\1-1-14\1-1-14\obj\x86\Debug\1-1-14.pdb
+E:\New folder\1-1-14\1-1-14\obj\x86\Debug\1-1-14.exe
+E:\New folder\1-1-14\1-1-14\obj\x86\Debug\1-1-14.pdb
+E:\New folder\1-1-14\1-1-14\bin\Debug\1-1-14.exe
+E:\New folder\1-1-14\1-1-14\bin\Debug\1-1-14.pdb
+E:\New folder\1-1-14\1-1-14\obj\x86\Debug\_1_1_14.Form1.resources
+E:\New folder\1-1-14\1-1-14\obj\x86\Debug\_1_1_14.Properties.Resources.resources
+E:\New folder\1-1-14\1-1-14\obj\x86\Debug\1-1-14.csproj.GenerateResource.Cache
+D:\Projects\C++\Visual Studio Projects\1-1-14\1-1-14\bin\Debug\1-1-14.exe
+D:\Projects\C++\Visual Studio Projects\1-1-14\1-1-14\bin\Debug\1-1-14.pdb
+D:\Projects\C++\Visual Studio Projects\1-1-14\1-1-14\obj\x86\Debug\1-1-14.csprojAssemblyReference.cache
+D:\Projects\C++\Visual Studio Projects\1-1-14\1-1-14\obj\x86\Debug\_1_1_14.Form1.resources
+D:\Projects\C++\Visual Studio Projects\1-1-14\1-1-14\obj\x86\Debug\_1_1_14.Properties.Resources.resources
+D:\Projects\C++\Visual Studio Projects\1-1-14\1-1-14\obj\x86\Debug\1-1-14.csproj.GenerateResource.cache
+D:\Projects\C++\Visual Studio Projects\1-1-14\1-1-14\obj\x86\Debug\1-1-14.csproj.CoreCompileInputs.cache
+D:\Projects\C++\Visual Studio Projects\1-1-14\1-1-14\obj\x86\Debug\1-1-14.exe
+D:\Projects\C++\Visual Studio Projects\1-1-14\1-1-14\obj\x86\Debug\1-1-14.pdb
