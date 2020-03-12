@@ -1,0 +1,10 @@
+D:\VisualStudioProjects\PolibiusSquare\PolibiusSquare\bin\Debug\PolibiusSquare.exe.config
+D:\VisualStudioProjects\PolibiusSquare\PolibiusSquare\bin\Debug\PolibiusSquare.exe
+D:\VisualStudioProjects\PolibiusSquare\PolibiusSquare\bin\Debug\PolibiusSquare.pdb
+D:\VisualStudioProjects\PolibiusSquare\PolibiusSquare\obj\Debug\PolibiusSquare.Form1.resources
+D:\VisualStudioProjects\PolibiusSquare\PolibiusSquare\obj\Debug\PolibiusSquare.Properties.Resources.resources
+D:\VisualStudioProjects\PolibiusSquare\PolibiusSquare\obj\Debug\PolibiusSquare.csproj.GenerateResource.cache
+D:\VisualStudioProjects\PolibiusSquare\PolibiusSquare\obj\Debug\PolibiusSquare.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\PolibiusSquare\PolibiusSquare\obj\Debug\PolibiusSquare.exe
+D:\VisualStudioProjects\PolibiusSquare\PolibiusSquare\obj\Debug\PolibiusSquare.pdb
+D:\VisualStudioProjects\PolibiusSquare\PolibiusSquare\obj\Debug\PolibiusSquare.csprojAssemblyReference.cache

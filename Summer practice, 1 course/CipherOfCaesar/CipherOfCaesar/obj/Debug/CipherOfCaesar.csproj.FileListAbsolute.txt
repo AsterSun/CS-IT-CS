@@ -1,0 +1,10 @@
+D:\VisualStudioProjects\CipherOfCaesar\CipherOfCaesar\bin\Debug\CipherOfCaesar.exe.config
+D:\VisualStudioProjects\CipherOfCaesar\CipherOfCaesar\bin\Debug\CipherOfCaesar.exe
+D:\VisualStudioProjects\CipherOfCaesar\CipherOfCaesar\bin\Debug\CipherOfCaesar.pdb
+D:\VisualStudioProjects\CipherOfCaesar\CipherOfCaesar\obj\Debug\CipherOfCaesar.csprojResolveAssemblyReference.cache
+D:\VisualStudioProjects\CipherOfCaesar\CipherOfCaesar\obj\Debug\CipherOfCaesar.Form1.resources
+D:\VisualStudioProjects\CipherOfCaesar\CipherOfCaesar\obj\Debug\CipherOfCaesar.Properties.Resources.resources
+D:\VisualStudioProjects\CipherOfCaesar\CipherOfCaesar\obj\Debug\CipherOfCaesar.csproj.GenerateResource.cache
+D:\VisualStudioProjects\CipherOfCaesar\CipherOfCaesar\obj\Debug\CipherOfCaesar.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\CipherOfCaesar\CipherOfCaesar\obj\Debug\CipherOfCaesar.exe
+D:\VisualStudioProjects\CipherOfCaesar\CipherOfCaesar\obj\Debug\CipherOfCaesar.pdb
